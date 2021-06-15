@@ -1,6 +1,6 @@
 # CNA421_AWS_Cognito
 
-The Galaxy will design and develop and deploy AWS Credentials for Federation Identities with Amazon Cognito. Amazon Cognito let users to sign-up, sign-in, and access control to their web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0 and OpenID Connect.
+This will design develop and deploy AWS Credentials for Federation Identities with Amazon Cognito. Amazon Cognito let users to sign-up, sign-in, and access control to their web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0 and OpenID Connect.
 
 Before we create a social IDP with Amazon Cognito we must register our application with Google to receive a Client ID and a Client Secret. In the Google developer console, we will configure a project. The authorized JavaScript origin we will enter after we have configured our Cognito user Pool. We will see Client ID and Client Secret. 
 
